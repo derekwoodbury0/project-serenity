@@ -1,0 +1,16 @@
+.nav-page-main {
+    width: 100vw;
+    height: 10vh;
+    background: red;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-right: 15vw;
+}
+
+.nav-page-links {
+    display: flex;
+    flex-direction: row;
+    width: 30vw;
+    justify-content: space-between;
+}
